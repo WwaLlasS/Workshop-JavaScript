@@ -14,10 +14,14 @@ Para mi en realidad en esta ocasión no tuve muchas dificultades, ya que con ant
 
 2. **Objects:** Para mi este tema es un poco confuso, si logro entender bien que es un *objeto*, sin embargo para mi el tema de las propiedades es algo complicado de entender sobre como y cuando usarlas, aun no logro entener bien como acceder a ellas y darle usos, claro que tampoco eh tenido la necesidad de usar como tal esa parte en JavaScript, asi que supongo que la verdadera necesidad me llevará a entender bien el concepto de los objetos.
 
-#### ¿Qué que npm?
+#### ¿Qué es npm?
 
 npm  es un manejador de paquetes o modulos para nodeJS, que de hecho esta escrito en *JavaScript* y su funcion princial es facilitar a los desarrolladores el poder compartir y reusar el código de sus aplicaciones hechas con nodeJS.
 
 #### ¿Para qué usamos `alias js=javascripting`?
 
-La palabra reservada `alias` nos permite crear una abreviación de cualquier palabra reservada para la terminal, y con esto nos facilita la escritura de otras palabras reservadas en la terminal. 
+La palabra reservada `alias` nos permite crear una abreviación de cualquier palabra reservada para la terminal, y con esto nos facilita la escritura de otras palabras reservadas en la terminal.
+
+#### ¿Qué es NaN?
+
+**NaN** es una abreviación para el acronimo ***Not a Number*** el cual esta presente en muchos leguajes de programación y generalmente es utilizado para expresar un resultado imposible de calcular, como en el caso de las raíces negativas.
